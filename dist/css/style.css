@@ -228,9 +228,9 @@ header .hero h3 {
 
     @media  screen and (max-width: 450px) {
         .about .box:nth-child(1) p{
-            font-size: 15px;
+            font-size: 23px;
             display: flex;
-            padding-top: 5%;
+            padding-top: 10%;
             padding-right: 5%;
             margin-right: 5%;
         }
